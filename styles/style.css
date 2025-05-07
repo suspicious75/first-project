@@ -41,7 +41,7 @@ Height: 105px;
 
 .cover {
     
-    min-height: 850px;
+    min-height: 757px;
     width: 1100px;
     background-image: url("/images/cover.jpg");
     background-size: cover;
@@ -91,6 +91,7 @@ Height: 105px;
 .aligned-text_right{
    
     align-self: end;
+
 }
 
 .cover_description{
@@ -114,7 +115,8 @@ margin-right: 50px;
     text-transform: uppercase;
     color: #FFFF;
     word-spacing: 18px;
-    white-space: no wrap;
+    white-space: nowrap;
+    padding-bottom: 61px;
 }
 
 .bet-button{
@@ -132,7 +134,7 @@ margin-right: 50px;
     border: 1px solid white;
     width: 256px;
     padding: 12px 0px;
-
+    margin-bottom: 50px;
     
 }
 
@@ -235,13 +237,13 @@ z-index: 1;
 }
 
 .view_more{
+    display: block;
     font-family: Raleway;
     font-weight: 400;
     font-size: 20px;
     line-height: 100%;
-    letter-spacing: 0%;
     padding-left: 40px;
-    
+    margin-top: 30px;
     
 }
 
