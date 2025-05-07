@@ -59,7 +59,8 @@ Height: 105px;
 
 
 .cover_title{
-
+    width: 1000;
+    height: 385;
     position: relative;
     display: flex;
     flex-direction: column;
