@@ -40,8 +40,7 @@ Height: 105px;
 
 
 .cover {
-    
-    min-height: 757px;
+
     width: 1100px;
     background-image: url("/images/cover.jpg");
     background-size: cover;
@@ -65,7 +64,10 @@ Height: 105px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 165px 50px 207px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 165px;
+    padding-bottom: 207px;
     gap: 20px;
     text-align: start;
     font-weight: 700;
