@@ -98,7 +98,7 @@ justify-content: space-between;
 flex-wrap: wrap;
 word-spacing: 19px;
 z-index: -1;
-margin-right: 50px;
+gap: 107px;
 
 
 }
@@ -112,7 +112,7 @@ margin-right: 50px;
     color: #FFFF;
     word-spacing: 18px;
     white-space: nowrap;
-    
+
 
 
 }
